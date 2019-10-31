@@ -26,4 +26,4 @@ ${msg}
 </body>
 </html>
 
-/*App = Pizza, pom.xml = Zutaten, maven=.jar/.war, maven stellt die Zutaten zur Pizza. im pom.xml den imbeded webserver, wenn auf der pizza .jar hat, ansonsten bei .war schauen, ass dieser kompatibel zum webserver ist */
+<!--//*App = Pizza, pom.xml = Zutaten, maven=.jar/.war, maven stellt die Zutaten zur Pizza. im pom.xml den imbeded webserver, wenn auf der pizza .jar hat, ansonsten bei .war schauen, ass dieser kompatibel zum webserver ist *-->
